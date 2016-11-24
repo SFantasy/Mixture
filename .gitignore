@@ -46,4 +46,4 @@ index.android.js
 .buckconfig
 
 # Test
-__test__/
+__tests__/
